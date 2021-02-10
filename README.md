@@ -15,3 +15,10 @@ Clone this project & download the Maven dependencies.
 Launch `src/test/java/Main.java` to launch a local game with `Player1.java` vs `Player2.java`
 
 The rules of Tic-Tac-Toe are explained in `config/statement_en.html`
+
+## working in progress
+
+* Get money: M5, M10, M30. % by turn on rest of amounts + 
+* Notation:
+
+....
